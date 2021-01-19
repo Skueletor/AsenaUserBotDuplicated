@@ -19,20 +19,20 @@
 ### Çok Basit Yöntem
 [Youtube Videosu](https://www.youtube.com/watch?v=mUUQ53TYqI0) ![YouTube Video Views](https://img.shields.io/youtube/views/mUUQ53TYqI0?style=flat-square)
 
-**Android:** Termuxu açın ve bu kodu yapıştırın: `bash <(curl -L https://kutt.it/88I5KA)`
+**Android:** Termuxu açın ve bu kodu yapıştırın: `bash <(curl -L https://kutt.it/xBmcpZ)`
 
-**iOS:** iSH açın ve bu kodu yapıştırın: `apk update && apk add bash && apk add curl && curl -L -o asena_installer.sh https://t.ly/vATX && chmod +x asena_installer.sh && bash asena_installer.sh`
+**iOS:** iSH açın ve bu kodu yapıştırın: `apk update && apk add bash && apk add curl && curl -L -o asena_installer.sh https://kutt.it/ZKR8fq && chmod +x asena_installer.sh && bash asena_installer.sh`
 
-**Windows 10:** [Python](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l#activetab=pivot:overviewtab) indirin ardından PowerShell bu kodu yapıştırın: `Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://kutt.it/aYTzCx')`
+**Windows 10:** [Python](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l#activetab=pivot:overviewtab) indirin ardından PowerShell bu kodu yapıştırın: `Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://kutt.it/JI1P7S')`
 
 ### Basit Yöntem
 Eğer botu kurma hakkında fikriniz yoksa burayı okuyunuz: [Kurulum Rehberi](https://github.com/Quiec/AsenaUserBot/wiki/Kurulum/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/AsenaUserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/AsenaUserBotDuplicated)
 ### Zor Yöntem
 ```python
-git clone https://github.com/Quiec/AsenaUserBot.git
-cd AsenaUserBot
+git clone https://github.com/phaticusthiccy/AsenaUserBotDuplicated.git
+cd AsenaUserBotDuplicated
 pip install -r requirements.txt
 # Config.env oluşturun ve düzenleyin. #
 python3 main.py
