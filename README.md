@@ -1,7 +1,4 @@
 
-[No more support.](https://t.me/fusufs/826)
-
-----
 
 <div align="center">
   <img src="https://i.imgyukle.com/2020/05/29/yBpJsP.jpg" width="200" height="200">
