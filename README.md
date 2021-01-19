@@ -59,7 +59,7 @@ Help.add() # Ve Ekleyelim.
 ```
 
 ## Bilgilendirme
-Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/AsenaSupport) ulaşabilirsiniz.
+Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/Asenaremaster) ulaşabilirsiniz.
 
 ```
     Userbottan dolayı; Telegram hesabınız yasaklanabilir.
