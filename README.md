@@ -70,9 +70,9 @@ Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/Asen
 ## Developers
 
 [![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://quiec.tech) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Miri](https://github.com/whomiri.png?size=100)](https://github.com/whomiri) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio)
-----|----|----|----|----
+----|----|----|----
 [Yusuf Usta](https://t.me/fusuf) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Miri](https://github.com/whomiri) | [Alperen Ç](https://t.me/xacnio)
-Author, Base, Bug Fixes, Modules | Base, Bug Fixes, Modules | Modules, Idea | Bug Fixes, Modules, Idea
+Author, Base, Bug Fixes, Modules | Base, Bug Fixes, Modules | Modules, Idea | Bug Fixes, Modules, Idea |
 
 
 ## Credit
